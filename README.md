@@ -1,2 +1,8 @@
 # Percy-Webdriverio
-Example of how to integrate Percy visual tests with WebdriverIO.
+Testing out Percy visual tests with WebdriverIO.
+
+## Original Repository Of This Example
+
+```bash
+$ https://github.com/percy/example-webdriverio.git
+```
